@@ -1,0 +1,12 @@
+CREATE TABLE CARS (
+
+
+
+
+
+
+
+    
+); 
+
+
