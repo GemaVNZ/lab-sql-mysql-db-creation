@@ -10,9 +10,9 @@ INSERT INTO CARS VALUES (6,'DAM41UDN3CHU2WVF6', 'Volvo', 'V60 Campo Traviesa', '
 
 -- Insert data into the CUSTOMERS table
 
-INSERT INTO CUSTOMERS VALUES (0,'Pablo Picasso', '+34 636 17 63 82', 'Paseo de la Chopera, 14', 'Madrid', 'Madrid', 'España', '28045');
-INSERT INTO CUSTOMERS VALUES (1,'Abraham Lincoln', '+1 305 907 7086', '120 SW Calle 8', 'Miami', 'Florida', 'Estados Unidos', '33130');
-INSERT INTO CUSTOMERS VALUES (2,'Napoleon Bonaparte', '+33 1 79 75 40 00', '40 Calle del Coliseo', 'París', 'Isla de Francia', 'Francia', '75008');
+INSERT INTO CUSTOMERS VALUES (0,'10001','Pablo Picasso', '+34 636 17 63 82', '', 'Paseo de la Chopera, 14', 'Madrid', 'Madrid', 'España', '28045');
+INSERT INTO CUSTOMERS VALUES (1,'20001','Abraham Lincoln', '+1 305 907 7086', '', '120 SW Calle 8', 'Miami', 'Florida', 'Estados Unidos', '33130');
+INSERT INTO CUSTOMERS VALUES (2,'30001','Napoleon Bonaparte', '+33 1 79 75 40 00', '', '40 Calle del Coliseo', 'París', 'Isla de Francia', 'Francia', '75008');
 
 -- Insert data into the SALESPERSONS table
 
