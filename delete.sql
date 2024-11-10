@@ -1,4 +1,4 @@
 
 -- Delete data from a table
 
-DELETE CARS WHERE ID_Car_table = 4;
+DELETE FROM CARS WHERE ID_Car_table = 4;
