@@ -9,10 +9,10 @@ DROP TABLE IF EXISTS CARS;
 CREATE TABLE CARS (
     id_car_table INT AUTO_INCREMENT PRIMARY KEY,
     VIN VARCHAR(50) NOT NULL UNIQUE,
-    Manufacturer VARCHAR(50),
-    Model VARCHAR(50),
-    Car_year INT,
-    Color VARCHAR(20)
+    manufacturer VARCHAR(50),
+    model VARCHAR(50),
+    car_year INT,
+    color VARCHAR(20)
 );
 
 CREATE TABLE CUSTOMERS (
